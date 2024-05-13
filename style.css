@@ -1,0 +1,20 @@
+.bor{
+    border: 2px solid #951795d9;
+    border-radius: 15px;
+}
+.rai{
+    border-radius: 10px;
+  
+}
+.shaw{
+    box-shadow: 3px -2px 5px 5px lightgray;
+}
+.wide{
+    width: 60px;
+    border-radius: 12px;
+}
+.fr{
+    position: absolute;
+  
+    bottom: 10px;
+}
