@@ -1,28 +1,43 @@
-.bor{
+.bor {
     border: 2px solid #951795d9;
     border-radius: 15px;
 }
-.rai{
+
+.rai {
     border-radius: 10px;
-  
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
-.shaw{
+
+.shaw {
     box-shadow: 3px -2px 5px 5px lightgray;
 }
-.wide{
+
+.wide {
     width: 60px;
     border-radius: 12px;
 }
-.fr{
+
+.fr {
     position: absolute;
-  
-    
+
+
 }
-.sharpe{
+
+.sharpe {
     box-shadow: 2px -1px 11px;
     border-radius: 5px;
 }
-.close{
+
+.close {
     font-size: x-large;
     color: brown;
+}
+
+.full {
+    display: flex;
+    align-items: baseline;
+    height: 60px;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
