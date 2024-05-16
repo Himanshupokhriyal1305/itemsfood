@@ -1,9 +1,15 @@
 .bor {
-    border: 2px solid #7105D2;
+    border: 1px solid #7105D2;
     border-radius: 15px;
 }
 
 .rai {
+    border-radius: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border: dotted;
+}
+.raii{
     border-radius: 10px;
     padding-top: 0px;
     padding-bottom: 0px;
@@ -14,8 +20,9 @@
 }
 
 .wide {
-    width: 60px;
-    border-radius: 8px;
+    width: 51px;
+    border-radius: 5px;
+    border: 1px solid;
     height: 20px;
 }
 
@@ -24,6 +31,9 @@
 
 
 
+}
+.imager{
+    object-fit: cover;
 }
 
 .sharpe {
@@ -45,10 +55,7 @@
 .mrf{
     margin-top: -16px;
 }
-.boor{
-    border: 2px solid #7105D2    ;
-    border-radius: 10px;
-}
+
 .rrr{
     margin-top: 5px;
     margin-right: 5px;
@@ -60,3 +67,21 @@
     background-color: gainsboro;
 
 }
+.brr{
+    color:  #7105D2    ;
+}
+/* hide scrollbar but allow scrolling */
+.hrm{
+    display: flex;
+    overflow-x: scroll;
+}
+.rmm{
+    margin-left: 15px;
+}
+.fontss{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+}
+
+  
