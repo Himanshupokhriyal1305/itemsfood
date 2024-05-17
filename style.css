@@ -9,7 +9,8 @@
     padding-bottom: 0px;
     border: dotted;
 }
-.raii{
+
+.raii {
     border-radius: 10px;
     padding-top: 0px;
     padding-bottom: 0px;
@@ -23,7 +24,7 @@
     width: 51px;
     border-radius: 5px;
     border: 1px solid;
-    height: 20px;
+    height: 15px;
 }
 
 .fr {
@@ -32,7 +33,8 @@
 
 
 }
-.imager{
+
+.imager {
     object-fit: cover;
 }
 
@@ -46,20 +48,31 @@
     color: brown;
 }
 
+.pop {
+    position: relative;
+    top: 13px;
+    font-size: 48px;
+    margin-top: 10px;
+    font-weight: 700;
+    font-size: 22px;
+    color: white;
+}
+
 .full {
     display: flex;
     align-items: baseline;
 
-   
+
 }
-.mrf{
+
+.mrf {
     margin-top: -16px;
 }
 
-.rrr{
+.rrr {
     margin-top: 5px;
     margin-right: 5px;
-    border: 2px ;
+    border: 2px;
     height: 22px;
     width: 22px;
     text-align: center;
@@ -67,23 +80,52 @@
     background-color: gainsboro;
 
 }
-.brr{
-    color:  #7105D2    ;
+
+.brr {
+    color: #7105D2;
 }
+
+#bum {
+    background-color:
+        #D9D9D9;
+    ;
+    font-size: 15px;
+    font-weight: 900;
+    height: 48px;
+    width: 151px;
+    color:
+        #888181;
+
+}
+
 /* hide scrollbar but allow scrolling */
-.hrm{
+.hrm {
     display: flex;
     overflow-x: scroll;
 }
-.rmm{
+
+.rmm {
     margin-left: 15px;
 }
-.fontss{
+
+.fontss {
     font-size: 16px;
     font-weight: 400;
     line-height: 19.36px;
 }
 
-  .cmap{
+.cmap {
     width: 60%;
-  }
+}
+
+.borders {
+    border: 1px solid #7105D2;
+}
+
+.allare {
+    width: 117px;
+    height: 56px;
+    border-radius: 20px;
+    background-color: #D9D9D9;
+    box-shadow: 0px 4px 4px;
+}
