@@ -102,10 +102,14 @@
 .hrm {
     display: flex;
     overflow-x: scroll;
+    height: 70px;
+    padding-bottom: 20px;
 }
 
 .rmm {
     margin-left: 15px;
+
+
 }
 
 .fontss {
@@ -126,6 +130,33 @@
     width: 117px;
     height: 56px;
     border-radius: 20px;
-    background-color: #D9D9D9;
+
     box-shadow: 0px 4px 4px;
+}
+
+.reee p{
+    font-size: 10px;
+    font-weight: 300;
+    margin-bottom: 0px !important;
+    
+
+}
+.abc{
+    display: flex !important;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+.cde{
+    overflow-y: scroll;
+    padding-bottom: 20px;
+}
+.ed{
+    display: flex;
+    gap: 15px;
+}
+.bommer{
+    position: absolute;
+    bottom: 0px;
+
 }
